@@ -3,8 +3,8 @@
 Natural language processing (NLP) နဲ့ ပါတ်သတ်ပြီး မြန်မာလို လေ့လာနိုင်အောင် Pratical Topic လေး ဖြစ်ပါတယ်။
 
 ## NLP - Text Classification
-1. Feature extraction : Label Encoding, Classifier : Cosine
-
+1. Feature extractor : Label Encoding, Classifier : Cosine
+2. Feature extractor : One-Hot-Encoding, Classifier : Consine
 
 လွတ်လပ်စွာ ကူးယူ လေ့လာခွင့် ရှိသည်။
 
