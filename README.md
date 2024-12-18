@@ -1,6 +1,6 @@
 ### (လေ့လာခြင်းဖြင့် ကျွန်ုပ်တို့၏ မနက်ဖြန်များကို ဖြတ်သန်းကြပါစို့..။)
 
-Natural language processing (NLP) နဲ့ ပါတ်သတ်ပြီး မြန်မာလို လေ့လာနိုင်အောင် Pratical Topic လေး ဖြစ်ပါတယ်။
+Natural language processing (NLP) နဲ့ ပါတ်သတ်ပြီး မြန်မာလို လေ့လာနိုင်သော Pratical Topic လေး ဖြစ်ပါတယ်။
 
 ## NLP - Text Classification
 1. Feature extractor : Label Encoding, Classifier : Cosine
