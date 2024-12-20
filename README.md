@@ -7,7 +7,7 @@ Natural language processing (NLP) နဲ့ ပါတ်သတ်ပြီး �
 2. NLP - Basic Text Classification [Feature extractor : One-Hot-Encoding, Classifier : Cosine] -> DONE
 3. NLP - Basic Text Classification [Feature extractor : Bag-of-Words, Classifier : Cosine] -> DONE
 4. NLP - Basic Text Classification [Feature extractor : TF-IDF, Classifier : Cosine] -> DONE
-5. NLP - Basic Text Classification [Feature extractor : BM25, Classifier : Cosine]
+5. NLP - Basic Text Classification [Feature extractor : BM25, Classifier : Cosine] -> DONE
 6. NLP - Basic Text Classification [Feature extractor : N-Grams, TF-IDF, Classifier : Cosine]
 7. NLP - Basic Text Classification [Feature extractor : Word2Vec(CBOW), Classifier : Cosine]
 8. NLP - Basic Text Classification [Feature extractor : Fasttext(Skip-Gram), Classifier : Cosine]
