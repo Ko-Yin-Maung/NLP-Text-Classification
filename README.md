@@ -26,3 +26,5 @@ Myanmar Text Classification,
 Burmese Text Classification,
 NLP Myanmar,
 NLP Burmese,
+
+@Created by Myanmar Innovative Group (MIG)
